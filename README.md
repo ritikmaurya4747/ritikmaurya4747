@@ -5,7 +5,7 @@
 
  🔭 I’m currently working on *Something New*
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *NextJS*
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shwetra.github.io/) & [Github](https://github.com/ritikmaurya4747)
 
