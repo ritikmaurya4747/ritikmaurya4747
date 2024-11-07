@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *NextJS*
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shwetra.github.io/) & [Github](https://github.com/ritikmaurya4747)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/ritikmaurya4747) & [Github](https://github.com/ritikmaurya4747)
 
 - 📫 How to reach me [Email](mailto:ritikmaurya4747@gmail.com) & [LinkedIn](https://www.linkedin.com/in/ritik-maurya-1a92aa299/)
 
