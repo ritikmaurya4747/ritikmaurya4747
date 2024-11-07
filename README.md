@@ -11,11 +11,12 @@
 
 - 📫 How to reach me [Email](mailto:ritikmaurya4747@gmail.com) & [LinkedIn](https://www.linkedin.com/in/ritik-maurya-1a92aa299/)
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18yRuu28yddf-66Pm07xkDZ9OGUbvbV39/view)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shwet-rai-16238a232) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/shwet_rai7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shwet-rai-16238a232)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/shwet_rai7) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
