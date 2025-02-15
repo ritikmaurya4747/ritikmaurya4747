@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [Email](mailto:ritikmaurya4747@gmail.com) & [LinkedIn](https://www.linkedin.com/in/ritik-maurya-1a92aa299/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18yRuu28yddf-66Pm07xkDZ9OGUbvbV39/view)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1K8jkTQ1TiNDaazuIN7148uaOJ_KePrYLiUj2opXhmXY/edit?tab=t.0)
 
 
 ## 🌐 Socials:
