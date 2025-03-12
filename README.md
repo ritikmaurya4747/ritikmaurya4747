@@ -15,7 +15,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shwet-rai-16238a232)
+[![LinkedIn](https://www.linkedin.com/in/ritik-maurya-1a92aa299/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/shwet_rai7) 
 
 # 💻 Tech Stack:
